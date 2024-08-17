@@ -10,7 +10,11 @@ architecting robust backend systems. My commitment to excellence is demonstrated
 practices in code quality and testing. Driven by a passion for innovation, I consistently seek to contribute to projects that
 propel business objectives and streamline operational workflows. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a Software Developer with over three years of experience. My expertise encompasses a broad spectrum of 
+development tasks, both on the client and server sides. I am skilled in creating intuitive, user-centric interfaces as well as 
+architecting robust backend systems. My commitment to excellence is demonstrated through my adherence to best 
+practices in code quality and testing. Driven by a passion for innovation, I consistently seek to contribute to projects that
+propel business objectives and streamline operational workflows. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
 export const EXPERIENCES = [
   {
